@@ -1,0 +1,5 @@
+{
+  "name": "Tactical Grid Wargame",
+  "description": "A classic turn-based strategy game built with React and Tailwind CSS. Command your units, manage funds, and outmaneuver your opponent on a tiled map to achieve victory.",
+  "requestFramePermissions": []
+}
